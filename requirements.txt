@@ -1,0 +1,4 @@
+streamlit
+streamlit-navigation-bar
+openai
+python-dotenv
